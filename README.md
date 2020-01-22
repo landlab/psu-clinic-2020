@@ -8,7 +8,7 @@ A Landlab clinic held at Penn State on Wednesday January 22, 2020.
 * [Nicole Gasparini](https://sse.tulane.edu/eens/faculty/gasparini)
 
 
-## Before the clinic
+## Before the clinic 
 
 1. **Sign up for an account (see below)**: We'll do all of our
    computational work on the [CSDMS JupyterHub](https://csdms.rc.colorado.edu).
@@ -24,23 +24,18 @@ A Landlab clinic held at Penn State on Wednesday January 22, 2020.
 
 ## Venue
 
+Penn State Geology Building
 
 ## Agenda
 
-The clinic will be held on Wednesday January 22, 2020.
+The clinic will be held on Wednesday January 22, 2020 from 10 am - 12 pm
 
-| Time          | Topic                                  |
-| ------------- | -------------------------------------- |
-|  8:00 - 8:30  | Welcome, intros, setup                 |
-|  8:30 - 9:30  | Intro to *landlab*                     |
-|  9:30 - 9:45  | Break                                  |
-|  9:45 - 11:00 | Building coupled models with *landlab* |
-| 11:00 - 12:00 | Intro to *pymt*                        |
-| 12:00 - 13:15 | Lunch                                  |
-| 13:15 - 14:30 | Building coupled models with *pymt*    |
-| 14:30 - 14:45 | Break                                  |
-| 14:45 - 15:15 | Breakouts and brainstorms              |
-| 15:15 - 16:00 | Future research directions             |
+We will cover:
+
+* What is Landlab? How can I get Landlab help?
+* Using Landlab without knowing anything about Landlab.
+* What is in the Landlab library?
+* Explore some different models that can be built with Landlab. 
 
 
 ## Requirements
@@ -71,6 +66,8 @@ You have to be logged in to the Hub to access this panel.
 
 
 ## Thank you!
+
+A big thanks to Mark Piper who set-up this GitHub repo and the CSDMS JupyterHub for us.
 
 A big thanks to those that contributed notebooks to this clinic:
 
