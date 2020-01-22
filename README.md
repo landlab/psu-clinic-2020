@@ -67,12 +67,11 @@ You have to be logged in to the Hub to access this panel.
 
 ## Thank you!
 
-A big thanks to Mark Piper who set-up this GitHub repo and the CSDMS JupyterHub for us.
+A big thanks to **Mark Piper** who set-up this GitHub repo and the CSDMS JupyterHub for us.
 
 A big thanks to those that contributed notebooks to this clinic:
 
 *  Jordan Adams
 *  Katy Barnhart
-*  Nicole Gasparini
 *  Nathan Lyons
 *  Margaux Mouchene
